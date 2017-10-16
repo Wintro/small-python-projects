@@ -5,11 +5,12 @@ This repository is comprised of many different small Python projects that comple
 Each project will have it's own detailed description inside its respective folder.
 
 ![CodeWars Rank](https://www.codewars.com/users/Wintro/badges/large)
+99th Honor Percentile
 
 
 ## Overview ##
-
-#### Currently, there are no projects in this repository. ####
+Most small projects are stored in
+https://www.codewars.com/users/Wintro
 
 
 ## Goals ##
